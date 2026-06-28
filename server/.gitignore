@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# env
+.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+
+# runtime
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# uploads (if you have file uploads)
+uploads/
+
+# coverage (if testing used)
+coverage/
