@@ -84,6 +84,38 @@ A full-stack Expense Tracker application built using the MERN Stack that enables
 * Dark Mode
 * Advanced Financial Insights
 
-## Author
 
+
+
+
+## SCREENSHOTS OF THE PROJECT GIVEN BELOW------------------------------------------------------------>>>>>>>>>>>>>>>>>>>>>>>.
+
+## LOGIN
+<img width="1121" height="887" alt="Screenshot 2026-06-29 095548" src="https://github.com/user-attachments/assets/d9767a15-b7c4-4444-900a-ebb0fa424676" />
+
+
+## SIGN UP
+<img width="756" height="687" alt="Screenshot 2026-06-29 095844" src="https://github.com/user-attachments/assets/b41d5d1f-b7fb-45cc-acbc-ba4552c8476b" />
+
+
+
+## UPDATE PROFILE
+<img width="737" height="532" alt="Screenshot 2026-06-29 095825" src="https://github.com/user-attachments/assets/7f8e0382-1cd6-46a9-b3b0-e6b0330eef54" />
+
+
+
+## DASHBOARD
+<img width="1611" height="728" alt="Screenshot 2026-06-29 095800" src="https://github.com/user-attachments/assets/0e2bc47a-6584-49ed-83f6-2a7ea412db93" />
+
+
+## ANALYTICS
+<img width="1505" height="902" alt="Screenshot 2026-06-29 095816" src="https://github.com/user-attachments/assets/54333db0-d329-4d88-b542-40d72f86da89" />
+
+
+## PDF GENERATE LIKE THIS 
+<img width="1193" height="852" alt="Screenshot 2026-06-29 100636" src="https://github.com/user-attachments/assets/0d8db584-633d-4d8b-9655-a7c549752b0e" />
+
+
+
+## Author
 Sandeep Singh
